@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Activity2</string>
+    <string name="Get_Started">Get Started</string>
+    <string name="Welcome_note">Welcome to OSLA Fitness</string>
+    <string name="Description">Achieving and maintaining a healthy and fit body requires a holistic
+        approach that encompasses various aspects of physical and mental well-being. Here\'s a comprehensive
+        guide on how to make your body healthy and fit Achieving a healthy and fit body is a journey that requires dedication,
+        commitment, and a holistic approach to wellness. </string>
+    <string name="Register_btn">Register</string>
+    <string name="Login_btn">Log in</string>
+    <string name="Name_input_field">Name</string>
+    <string name="Email_input_field">Email</string>
+    <string name="Phone_input_field">Phone</string>
+    <string name="Password_input_field">Password</string>
+    <string name="User_name">Priyanka Prabashwara</string>
+    <string name="User_email">Prabashwara65@gmail.com</string>
+    <string name="Greeting_msg">Hi Prabashwara</string>
+    <string name="Trending_News">Trending News</string>
+    <string name="View_All">View All</string>
+
+</resources>
